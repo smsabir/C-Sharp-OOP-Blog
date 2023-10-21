@@ -1,4 +1,4 @@
-﻿namespace OOP;
+﻿namespace ClassBasic;
 
 public class Vehicle
 {
