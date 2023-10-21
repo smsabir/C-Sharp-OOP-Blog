@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBasic", "OOP\ClassBasic.csproj", "{96F48658-E285-46C9-9310-EB1345D845CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBasic", "ClassBasic\ClassBasic.csproj", "{96F48658-E285-46C9-9310-EB1345D845CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethods", "ClassMethods\ClassMethods.csproj", "{34951399-EBB3-44E0-B9BE-C2CE031456AA}"
 EndProject
